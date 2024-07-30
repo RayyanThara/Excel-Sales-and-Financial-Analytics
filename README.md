@@ -8,7 +8,7 @@ AtliQ Hardware is a premier manufacturer of computer accessories, specializing P
 
     **1.** Create a [Customer Performance Report](https://github.com/RayyanThara/Excel-Sales-and-Financial-Analytics/blob/main/Customer%20Performance%20Report.pdf) 
 
-    **2.** Conduct a comprehensive comparison between [Market Performance and Sales Targets](https://github.com/RayyanThara/Excel-Sales-Analytics/blob/main/Market%20Performance%20vs%20Target.pdf)
+    **2.** Conduct a comprehensive comparison between [Market Performance and Sales Targets](https://github.com/RayyanThara/Excel-Sales-and-Financial-Analytics/blob/main/Market%20Performance%20vs%20Target.pdf)
 
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
 
@@ -21,9 +21,9 @@ AtliQ Hardware is a premier manufacturer of computer accessories, specializing P
 
 - **Project objective:** 
 
-    **1.** Create Profit and Loss (P&L) reports by [Fiscal Year](https://github.com/RayyanThara/Excel-Sales-Analytics/blob/main/P%20%26%20L%20by%20Years.pdf) & [Quarters](https://github.com/RayyanThara/Excel-Sales-Analytics/blob/main/P%20%26%20L%20by%20Quarters.pdf)
+    **1.** Create Profit and Loss (P&L) reports by [Fiscal Year](https://github.com/RayyanThara/Excel-Sales-and-Financial-Analytics/blob/main/P%20%26%20L%20by%20Years.pdf) & [Quarters](https://github.com/RayyanThara/Excel-Sales-and-Financial-Analytics/blob/main/P%20%26%20L%20by%20Quarters.pdf)
 
-   **2.** Create Profit and Loss (P&L) reports by [Markets](https://github.com/RayyanThara/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Markets.pdf)
+   **2.** Create Profit and Loss (P&L) reports by [Markets](https://github.com/RayyanThara/Excel-Sales-and-Financial-Analytics/blob/main/P%20%26%20L%20statement%20by%20Market.pdf)
 
 - **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
 
