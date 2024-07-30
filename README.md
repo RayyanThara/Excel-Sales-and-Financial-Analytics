@@ -6,7 +6,7 @@ AtliQ Hardware is a premier manufacturer of computer accessories, specializing P
 
 - **Project objective:** 
 
-    **1.** Create a [Customer Performance Report](https://github.com/RayyanThara/Excel-Sales-Analytics/blob/main/Customer%20Performance%20report.pdf) 
+    **1.** Create a [Customer Performance Report](https://github.com/RayyanThara/Excel-Sales-and-Financial-Analytics/blob/main/Customer%20Performance%20Report.pdf) 
 
     **2.** Conduct a comprehensive comparison between [Market Performance and Sales Targets](https://github.com/RayyanThara/Excel-Sales-Analytics/blob/main/Market%20Performance%20vs%20Target.pdf)
 
