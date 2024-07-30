@@ -1,4 +1,6 @@
-# Excel-Sales-Analytics
+# AtliQ Hardware Sales & Financial Analytics
+## About Company :
+AtliQ Hardware is a premier manufacturer of computer accessories, specializing PC peripherals. They supply both brick-and-mortar retailers and e-commerce platforms like Amazon and Flipkart, as well as their own stores and websites.
 ## Sales Report :
 
 
